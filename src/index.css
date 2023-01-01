@@ -1,0 +1,10 @@
+h1, p {
+  font-family: Lato;
+}
+body{
+  background-color: bisque;
+  display: flex;
+  /* flex-direction: row; */
+  flex-direction: space-between;
+  justify-content: center;
+}
